@@ -1,0 +1,6 @@
+﻿update_name_month = {
+    set_variable = {
+        name = month_var
+        value = current_month
+    }
+}
