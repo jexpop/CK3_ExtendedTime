@@ -1,6 +1,8 @@
 ﻿update_name_month = {
-    set_variable = {
-        name = month_var
-        value = current_month
-    }
+	every_player = {
+		set_variable = {
+			name = month_var
+			value = current_month # Detecta el mes actual (1-12) [2, 3]
+		}
+	}
 }
