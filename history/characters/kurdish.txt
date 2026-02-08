@@ -1305,11 +1305,11 @@
 	dynasty = 100685
 	religion = "mazdayasna"
 	culture = "kurdish"
-	10002.11.1 = {
-		birth = "10002.11.1"
+	2.11.1 = {
+		birth = "2.11.1"
 	}
-	10050.8.29 = {
-		death = "10050.8.29"
+	50.8.29 = {
+		death = "50.8.29"
 	}
 }
 159547 = {
@@ -1318,8 +1318,8 @@
 	religion = "mazdayasna"
 	culture = "kurdish"
 	father = 159546
-	10030.11.1 = {
-		birth = "10030.11.1"
+	30.11.1 = {
+		birth = "30.11.1"
 	}
 	10104.1.29 = {
 		death = "10104.1.29"
@@ -1331,8 +1331,8 @@
 	religion = "mazdayasna"
 	culture = "kurdish"
 	father = 159547
-	10060.11.1 = {
-		birth = "10060.11.1"
+	60.11.1 = {
+		birth = "60.11.1"
 	}
 	10140.8.29 = {
 		death = "10140.8.29"
@@ -1370,8 +1370,8 @@
 	religion = "mazdayasna"
 	culture = "kurdish"
 	father = 159547
-	10070.11.1 = {
-		birth = "10070.11.1"
+	70.11.1 = {
+		birth = "70.11.1"
 	}
 	10140.8.29 = {
 		death = "10140.8.29"
@@ -1383,8 +1383,8 @@
 	religion = "mazdayasna"
 	culture = "kurdish"
 	father = 159551
-	10090.11.1 = {
-		birth = "10090.11.1"
+	90.11.1 = {
+		birth = "90.11.1"
 	}
 	10140.8.29 = {
 		death = "10140.8.29"

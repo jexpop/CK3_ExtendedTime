@@ -45,16 +45,16 @@
 
 d_yarlung = {
 	#Yarlung Kingdom
-	10042.1.1={
+	42.1.1={
 		holder = 247051
 	}
-	10051.1.1={
+	51.1.1={
 		holder = 247052
 	}
-	10063.1.1={
+	63.1.1={
 		holder = 247053
 	}
-	10097.1.1={
+	97.1.1={
 		holder = 247054
 	}
 	10122.1.1={
@@ -247,17 +247,17 @@ d_yarlung = {
 c_zetang = {
 	#Yarlung Kingdom
 
-	10042.1.1={
+	42.1.1={
 		liege = "k_u"
 		holder = 247051
 	}
-	10051.1.1={
+	51.1.1={
 		holder = 247052
 	}
-	10063.1.1={
+	63.1.1={
 		holder = 247053
 	}
-	10097.1.1={
+	97.1.1={
 		holder = 247054
 	}
 	10122.1.1={
@@ -445,17 +445,17 @@ c_zetang = {
 c_nagarze = {
 	#Yarlung Kingdom
 
-	10042.1.1={
+	42.1.1={
 		liege = "k_u"
 		holder = 247051
 	}
-	10051.1.1={
+	51.1.1={
 		holder = 247052
 	}
-	10063.1.1={
+	63.1.1={
 		holder = 247053
 	}
-	10097.1.1={
+	97.1.1={
 		holder = 247054
 	}
 	10122.1.1={
@@ -643,7 +643,7 @@ c_nagarze = {
 
 c_comai = {
 	#Yarlung Kingdom
-	10042.1.1={
+	42.1.1={
 		liege = "d_yarlung"
 	}
 	#Comai vassals - fictional placeholders
@@ -741,7 +741,7 @@ c_comai = {
 
 c_gyaca = {
 	#Yarlung Kingdom
-	10042.1.1={
+	42.1.1={
 		liege = "d_yarlung" #d_dakpo
 	}
 	#Dakpo vassals - fictional placeholders
@@ -840,7 +840,7 @@ c_gyaca = {
 
 c_nang = {
 	#Yarlung Kingdom
-	10042.1.1={
+	42.1.1={
 		liege = "d_yarlung" #d_dakpo
 	}
 	#Dakpo vassals - fictional placeholders

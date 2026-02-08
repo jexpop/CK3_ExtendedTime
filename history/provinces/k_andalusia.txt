@@ -50,7 +50,7 @@
 	
 	holding = castle_holding
 	
-	10001.1.1 = { #Actually 20 million years ago... ... 
+	1.1.1 = { #Actually 20 million years ago... ... 
 		special_building = rock_of_gibraltar_01
 	}
 	

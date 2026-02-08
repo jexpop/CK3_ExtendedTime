@@ -1,5 +1,5 @@
 k_norway = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -141,7 +141,7 @@ d_viken = {
 }
 
 c_raniriki = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -403,7 +403,7 @@ c_vestfold = {
 
 
 c_telemark = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -513,7 +513,7 @@ c_telemark = {
 
 
 c_nedenes = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -626,7 +626,7 @@ c_nedenes = {
 
 
 c_agdeside = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -816,7 +816,7 @@ c_rogalandi = {
 
 
 c_hordalandi = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -887,7 +887,7 @@ c_hordalandi = {
 }
 
 c_sogn = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -973,7 +973,7 @@ b_stolsheimen = {	#Fictional, to allow character placement.
 
 
 c_trandheim = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -1063,7 +1063,7 @@ b_eynafylki = {	#Fictional, to allow character placement.
 
 
 c_norwegian_more = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -1138,7 +1138,7 @@ c_norwegian_more = {
 
 
 c_firdafylki = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -1301,7 +1301,7 @@ d_dalir = {
 
 
 c_hedmork = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -2034,7 +2034,7 @@ c_namdalfylki = {
 }
 
 d_iceland = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 0
 	}
 	

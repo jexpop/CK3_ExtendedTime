@@ -1,7 +1,7 @@
 ﻿#####################
 # THE GREAT STEPPE  #
 #####################
-10001.1.1 = {
+1.1.1 = {
     effect = {
         if = {
             limit = { has_mpo_dlc_trigger = yes }

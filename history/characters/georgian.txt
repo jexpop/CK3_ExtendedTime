@@ -1939,11 +1939,11 @@
 	dynasty = 23001
 	religion = "urartuism"
 	culture = "georgian"
-	10002.1.1 = {
-		birth = "10002.1.1"
+	2.1.1 = {
+		birth = "2.1.1"
 	}
-	10058.1.1 = {
-		death = "10058.1.1"
+	58.1.1 = {
+		death = "58.1.1"
 	}
 }
 
@@ -1953,8 +1953,8 @@
 	religion = "urartuism"
 	culture = "georgian"
 	father = 159909
-	10042.1.1 = {
-		birth = "10042.1.1"
+	42.1.1 = {
+		birth = "42.1.1"
 	}
 	10106.1.1 = {
 		death = "10106.1.1"
@@ -1967,8 +1967,8 @@
 	religion = "urartuism"
 	culture = "georgian"
 	father = 159910
-	10062.1.1 = {
-		birth = "10062.1.1"
+	62.1.1 = {
+		birth = "62.1.1"
 	}
 	10117.1.1 = {
 		death = "10117.1.1"
@@ -1981,8 +1981,8 @@
 	religion = "urartuism"
 	culture = "georgian"
 	father = 159911
-	10082.1.1 = {
-		birth = "10082.1.1"
+	82.1.1 = {
+		birth = "82.1.1"
 	}
 	10135.1.1 = {
 		death = "10135.1.1"

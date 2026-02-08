@@ -415,7 +415,7 @@ c_saqsin = {
 
 
 c_uzen = {
-	10020.1.1 = {
+	20.1.1 = {
 		government = nomad_government
 	}
 	10716.1.1 = {
@@ -499,7 +499,7 @@ c_uzen = {
 }
 
 c_ukek = {
-	10020.1.1 = {
+	20.1.1 = {
 		government = nomad_government
 	}
 	10716.1.1 = {
@@ -597,7 +597,7 @@ d_pecheneg = {
 
 
 c_pecheneg = {
-	10020.1.1 = {
+	20.1.1 = {
 		government = nomad_government
 	}
 	10716.1.1 = {
@@ -658,7 +658,7 @@ c_pecheneg = {
 
 
 c_jambalar = {
-	10020.1.1 = {
+	20.1.1 = {
 		government = nomad_government
 	}
 	10716.1.1 = {
@@ -766,7 +766,7 @@ c_jambalar = {
 
 
 c_yaitsk = {
-	10020.1.1 = {
+	20.1.1 = {
 		government = nomad_government
 	}
 	10716.1.1 = {
@@ -847,7 +847,7 @@ c_yaitsk = {
 }
 
 c_qyzylyaitsk = {
-	10020.1.1 = {
+	20.1.1 = {
 		government = nomad_government
 	}
 	10716.1.1 = {

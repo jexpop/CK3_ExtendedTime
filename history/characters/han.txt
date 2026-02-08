@@ -69740,8 +69740,8 @@ han_1 = {
 	dynasty = zheng_912D_9
 	religion = "daoxue"
 	culture = "han"
-	10032.1.1 = { birth = yes } # hypothetical
-	10092.1.1 = { death = yes } # hypothetical
+	32.1.1 = { birth = yes } # hypothetical
+	92.1.1 = { death = yes } # hypothetical
 }
 
 han_2 = {
@@ -69750,7 +69750,7 @@ han_2 = {
 	religion = "jingxue"
 	culture = "han"
 	father = han_1
-	10071.1.1 = { birth = yes } # hypothetical
+	71.1.1 = { birth = yes } # hypothetical
 	10144.1.1 = { death = yes } # hypothetical
 }
 
@@ -144511,7 +144511,7 @@ han_80000 = {
 	dynasty = kong_5B54_7
 	religion = "jingxue"
 	culture = "han"
-	10060.1.1 = { birth = yes }
+	60.1.1 = { birth = yes }
 	10120.1.1 = { death = yes }
 }
 
@@ -144521,7 +144521,7 @@ han_80001 = {
 	religion = "jingxue"
 	culture = "han"
 	father = han_80000
-	10094.1.1 = { birth = yes }
+	94.1.1 = { birth = yes }
 	10154.1.1 = { death = yes }
 }
 
@@ -145556,8 +145556,8 @@ imperial_han_1 = {
 	trait = calm
 	trait = patient
 	trait = just
-	10005.1.15 = { birth = yes }
-	10057.3.29 = { death = yes }
+	5.1.15 = { birth = yes }
+	57.3.29 = { death = yes }
 }
 
 imperial_han_2 = {
@@ -145566,8 +145566,8 @@ imperial_han_2 = {
 	religion = "jingxue"
 	culture = "han"
 	father = imperial_han_1
-	10028.6.15 = { birth = yes }
-	10075.9.5 = { death = yes }
+	28.6.15 = { birth = yes }
+	75.9.5 = { death = yes }
 }
 
 imperial_han_3 = {
@@ -145576,8 +145576,8 @@ imperial_han_3 = {
 	religion = "jingxue"
 	culture = "han"
 	father = imperial_han_2
-	10056.1.1 = { birth = yes }
-	10088.4.9 = { death = yes }
+	56.1.1 = { birth = yes }
+	88.4.9 = { death = yes }
 }
 
 imperial_han_4 = {
@@ -145586,7 +145586,7 @@ imperial_han_4 = {
 	religion = "jingxue"
 	culture = "han"
 	father = imperial_han_3
-	10079.1.1 = { birth = yes }
+	79.1.1 = { birth = yes }
 	10106.2.13 = { death = yes }
 }
 
@@ -145606,7 +145606,7 @@ imperial_han_6 = {
 	religion = "jingxue"
 	culture = "han"
 	father = imperial_han_3
-	10078.1.1 = { birth = yes }
+	78.1.1 = { birth = yes }
 	10107.2.1 = { death = yes }
 }
 
@@ -145616,7 +145616,7 @@ imperial_han_7 = {
 	religion = "jingxue"
 	culture = "han"
 	father = imperial_han_6
-	10094.1.1 = { birth = yes }
+	94.1.1 = { birth = yes }
 	10125.4.30 = { death = yes }
 }
 
@@ -145646,7 +145646,7 @@ imperial_han_10 = {
 	religion = "jingxue"
 	culture = "han"
 	father = imperial_han_6
-	10090.1.1 = { birth = yes }
+	90.1.1 = { birth = yes }
 	10122.1.1 = { death = yes }
 }
 
@@ -145676,7 +145676,7 @@ imperial_han_13 = {
 	religion = "jingxue"
 	culture = "han"
 	father = imperial_han_3
-	10090.1.1 = { birth = yes }
+	90.1.1 = { birth = yes }
 	10131.1.1 = { death = yes }
 }
 
@@ -146074,7 +146074,7 @@ imperial_jin_21 = {
 	dynasty = jin_imperial_sima
 	religion = "jingxue"
 	culture = "han"
-	10055.1.1 = { birth = yes } # hypothetical
+	55.1.1 = { birth = yes } # hypothetical
 	10115.1.1 = { death = yes }
 }
 
@@ -146084,7 +146084,7 @@ imperial_jin_22 = {
 	religion = "jingxue"
 	culture = "han"
     father = imperial_jin_21
-	10085.1.1 = { birth = yes } # hypothetical
+	85.1.1 = { birth = yes } # hypothetical
 	10145.1.1 = { death = yes } # hypothetical
 }
 

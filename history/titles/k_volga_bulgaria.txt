@@ -58,7 +58,7 @@ k_volga_bulgaria = {
 
 
 d_volga_bulgaria = {
-	10020.1.1 = {
+	20.1.1 = {
 		government = tribal_government
 	}
 	10632.1.1 = {
@@ -200,7 +200,7 @@ c_bolghar = {
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
 	
-	10020.1.1 = {
+	20.1.1 = {
 		government = tribal_government
 	}
 	10632.1.1 = {
@@ -336,7 +336,7 @@ c_bolghar = {
 
 
 c_ashli = {
-	10020.1.1 = {
+	20.1.1 = {
 		government = tribal_government
 	}
 	10632.1.1 = {
@@ -571,7 +571,7 @@ c_yar-calli = {
 
 
 c_karabolam = {
-	10020.1.1 = {
+	20.1.1 = {
 		government = tribal_government
 	}
 	10632.1.1 = {

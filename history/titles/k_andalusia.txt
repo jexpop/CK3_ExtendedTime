@@ -132,7 +132,7 @@ c_cordoba = {
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 39 }
  
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 12
 	}
  

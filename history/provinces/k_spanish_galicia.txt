@@ -8,7 +8,7 @@
 	
 	holding = castle_holding
 
-	10098.1.1 = { 
+	98.1.1 = { 
 		special_building = tower_of_hercules_01
 	}
 	

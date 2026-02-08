@@ -1,5 +1,5 @@
 ﻿h_china = {
-	10025.8.5 = {
+	25.8.5 = {
 		government = celestial_government
 		holder = imperial_han_1 # Guangwu of Han
 		effect = {
@@ -11,13 +11,13 @@
 			}
 		}
 	}
-	10057.3.29 = {
+	57.3.29 = {
 		holder = imperial_han_2 # Ming of Han
 	}
-	10075.9.5 = {
+	75.9.5 = {
 		holder = imperial_han_3 # Zhang of Han
 	}
-	10088.4.9 = {
+	88.4.9 = {
 		holder = imperial_han_4 # He of Han
 	}
 	10106.2.13 = {

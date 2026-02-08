@@ -148,7 +148,7 @@
 	religion = tengri_pagan
 	holding = nomad_holding
 
-	10001.1.1 = {
+	1.1.1 = {
 	special_building = burkhan_khaldun_01
 	}
 	10867.1.1 = {

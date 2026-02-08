@@ -2296,7 +2296,7 @@ korean_go_goguryeo_34 = { # King Sin_dae
     faith = "mu"
     dynasty = korean_go_goguryeo
     father = korean_go_goguryeo_39 # Go Gung
-    10089.1.1 = {
+    89.1.1 = {
         birth = yes
     }
     10197.5.1 = {
@@ -2311,7 +2311,7 @@ korean_go_goguryeo_35 = { # King Cha_dae
 	faith = "mu"
 	dynasty = korean_go_goguryeo
 	father = korean_go_goguryeo_39	# Go Gung
-	10071.1.1 = {
+	71.1.1 = {
 		birth = yes
 	}
 	10165.10.1 = {		
@@ -2340,7 +2340,7 @@ korean_go_goguryeo_37 = { # Go Mak_geun
 	faith = "mu"
 	dynasty = korean_go_goguryeo
 	father = korean_go_goguryeo_39	# Go Gung
-	10074.1.1 = { #Unknown
+	74.1.1 = { #Unknown
 		birth = yes
 	}
 	10148.4.1 = {	#Unknown	
@@ -2354,7 +2354,7 @@ korean_go_goguryeo_38 = { # Go Mak_deok
 	faith = "mu"
 	dynasty = korean_go_goguryeo
 	father = korean_go_goguryeo_39	# Go Gung
-	10078.1.1 = { #Unknown
+	78.1.1 = { #Unknown
 		birth = yes
 	}
 	10148.4.1 = {	#Unknown	
@@ -2368,10 +2368,10 @@ korean_go_goguryeo_39 = { # King Tae_jo
 	faith = "mu"
 	dynasty = korean_go_goguryeo
 	#father = korean_go_goguryeo_40	# Go Jae_sa
-	10047.1.1 = {
+	47.1.1 = {
 		birth = yes
 	}
-	10072.1.1 = {
+	72.1.1 = {
 		effect = { give_nickname = nick_the_great }
 	}
 	10121.5.1 = {		
@@ -2386,10 +2386,10 @@ korean_go_goguryeo_39 = { # King Tae_jo
 #	faith = "mu"
 #	dynasty = korean_go_goguryeo
 #	#father = korean_go_goguryeo_49	# Go Yu_ri
-#	10007.1.1 = { #Unknown
+#	7.1.1 = { #Unknown
 #		birth = yes
 #	}
-#	10050.1.1 = {	#Unknown	
+#	50.1.1 = {	#Unknown	
 #		death = yes
 #	}
 #}
@@ -2400,10 +2400,10 @@ korean_go_goguryeo_39 = { # King Tae_jo
 #	faith = "mu"
 #	dynasty = korean_go_goguryeo
 #	father = korean_go_goguryeo_49	# Go Yu_ri
-#	10006.1.1 = { #Unknown
+#	6.1.1 = { #Unknown
 #		birth = yes
 #	}
-#	10018.4.1 = {	#Unknown	
+#	18.4.1 = {	#Unknown	
 #		death = yes
 #	}
 #}
@@ -2414,10 +2414,10 @@ korean_go_goguryeo_39 = { # King Tae_jo
 #	faith = "mu"
 #	dynasty = korean_go_goguryeo
 #	father = korean_go_goguryeo_49	# Go Yu_ri
-#	10005.1.1 = { #Unknown
+#	5.1.1 = { #Unknown
 #		birth = yes
 #	}
-#	10048.1.1 = {	
+#	48.1.1 = {	
 #		name = 	"Min_jung" # posthumous name	
 #		death = yes
 #	}
@@ -2429,10 +2429,10 @@ korean_go_goguryeo_39 = { # King Tae_jo
 #	faith = "mu"
 #	dynasty = korean_go_goguryeo
 #	father = korean_go_goguryeo_49	# Go Yu_ri
-#	10004.1.1 = { 
+#	4.1.1 = { 
 #		birth = yes
 #	}
-#	10044.10.1 = {		
+#	44.10.1 = {		
 #		name = "Dae_mu_sin" # posthumous name			
 #		death = yes
 #	}
@@ -2444,10 +2444,10 @@ korean_go_goguryeo_39 = { # King Tae_jo
 #	faith = "mu"
 #	dynasty = korean_go_goguryeo
 #	father = korean_go_goguryeo_43	# King Dae_mu_sin
-#	10022.1.1 = { #Unknown
+#	22.1.1 = { #Unknown
 #		birth = yes
 #	}
-#	10032.11.1 = {	#Unknown	
+#	32.11.1 = {	#Unknown	
 #		death = yes
 #	}
 #}
@@ -2458,10 +2458,10 @@ korean_go_goguryeo_39 = { # King Tae_jo
 #	faith = "mu"
 #	dynasty = korean_go_goguryeo
 #	#father = korean_go_goguryeo_43	# King Dae_mu_sin
-#	10027.1.1 = { 
+#	27.1.1 = { 
 #		birth = yes
 #	}
-#	10053.11.1 = {		
+#	53.11.1 = {		
 #		name = "Mo_bon" # posthumous name			
 #		death = yes
 #	}
@@ -2473,10 +2473,10 @@ korean_go_goguryeo_39 = { # King Tae_jo
 #	faith = "mu"
 #	dynasty = korean_go_goguryeo
 #	father = korean_go_goguryeo_45	# King Mo_bon
-#	10044.1.1 = { #Unknown
+#	44.1.1 = { #Unknown
 #		birth = yes	
 #	}
-#	10055.11.1 = {	#Unknown	
+#	55.11.1 = {	#Unknown	
 #		death = yes
 #	}
 #}
@@ -2487,11 +2487,11 @@ korean_go_goguryeo_39 = { # King Tae_jo
 #	faith = "mu"
 #	dynasty = korean_go_goguryeo
 #	father = korean_go_goguryeo_49	# Go Yu_ri
-#	10001.1.1 = { #Unknown
+#	1.1.1 = { #Unknown
 #		birth = yes
 #		#set_age = 13
 #	}
-#	10009.1.1 = {	#Unknown	
+#	9.1.1 = {	#Unknown	
 #		death = yes
 #	}
 #}
@@ -2502,11 +2502,11 @@ korean_go_goguryeo_39 = { # King Tae_jo
 #	faith = "mu"
 #	dynasty = korean_go_goguryeo
 #	father = korean_go_goguryeo_49	# Go Yu_ri
-#	10001.1.1 = { #Unknown
+#	1.1.1 = { #Unknown
 #		birth = yes
 #		#set_age = 19
 #	}
-#	10001.5.1 = {	#Unknown	
+#	1.5.1 = {	#Unknown	
 #		death = yes
 #	}
 #}
@@ -2516,11 +2516,11 @@ korean_go_goguryeo_39 = { # King Tae_jo
 #	culture = goguryeo
 #	faith = "mu"
 #	dynasty = korean_go_goguryeo
-#	10001.1.1 = { 
+#	1.1.1 = { 
 #		birth = yes
 #		#set_age = 39
 #	}
-#	10018.10.1 = {		
+#	18.10.1 = {		
 #		name = "Yu_ri_myeong" # posthumous name			
 #		death = yes
 #	}
@@ -3243,7 +3243,7 @@ korean_go_jeju_31 = {
 	culture = baekje
 	faith = "mu"
 	father = korean_go_jeju_32
-	10084.1.1 = {
+	84.1.1 = {
 		birth = yes
 	}
 	10144.1.1 = {
@@ -3257,10 +3257,10 @@ korean_go_jeju_32 = {
 	culture = baekje
 	faith = "mu"
 	father = korean_go_jeju_33
-	10037.1.1 = {
+	37.1.1 = {
 		birth = yes
 	}
-	10093.1.1 = {
+	93.1.1 = {
 		death = yes
 	}
 }
@@ -3270,10 +3270,10 @@ korean_go_jeju_33 = {
 	dynasty = korean_go_jeju
 	culture = baekje
 	faith = "mu"
-	10002.1.1 = {
+	2.1.1 = {
 		birth = yes
 	}
-	10043.1.1 = {
+	43.1.1 = {
 		death = yes
 	}
 }
@@ -3385,10 +3385,10 @@ korean_seok_gyeongju_1 = { # King Tal-hae
 	culture = silla
 	faith = "mu"
 	dynasty = korean_seok_gyeongju
-	10002.1.1 = {
+	2.1.1 = {
 		birth = yes
 	}
-	10080.1.1 = {
+	80.1.1 = {
 		death = yes
 	}
 }
@@ -3399,7 +3399,7 @@ korean_seok_gyeongju_2 = {
 	faith = "mu"
 	dynasty = korean_seok_gyeongju
 	father = korean_seok_gyeongju_1 # Tal_hae
-	10066.1.1 = {
+	66.1.1 = {
 		birth = yes
 	}
 	10126.1.1 = {
@@ -6823,7 +6823,7 @@ korean_buyeo_62 = {	#King Gi Ru
 	religion = mu
 	culture = baekje
 	father = korean_buyeo_63 #Da_ru
-	10050.1.1 = {	#Unknown
+	50.1.1 = {	#Unknown
 		birth = yes
 	}
 	10128.1.1 = {
@@ -6837,10 +6837,10 @@ korean_buyeo_63 = {	#King Da ru
 	religion = mu
 	culture = baekje
 	#father = korean_buyeo_65 #On_jo
-	10010.1.1 = {	#Unknown
+	10.1.1 = {	#Unknown
 		birth = yes
 	}
-	10077.1.1 = {
+	77.1.1 = {
 		death = yes
 	}	
 }
@@ -6851,10 +6851,10 @@ korean_buyeo_63 = {	#King Da ru
 #	religion = mu
 #	culture = baekje
 #	father = korean_buyeo_65 #On_jo
-#	10012.1.1 = {	#Unknown
+#	12.1.1 = {	#Unknown
 #		birth = yes
 #	}
-#	10077.1.1 = {	#Unknown
+#	77.1.1 = {	#Unknown
 #		death = yes
 #	}	
 #}
@@ -6864,10 +6864,10 @@ korean_buyeo_63 = {	#King Da ru
 #	dynasty = korean_buyeo
 #	religion = mu
 #	culture = goguryeo
-#	10003.1.1 = {	#Originally BC 36
+#	3.1.1 = {	#Originally BC 36
 #		birth = yes
 #	}
-#	10028.2.1 = {
+#	28.2.1 = {
 #		death = yes
 #	}	
 #}
@@ -12067,7 +12067,7 @@ korean_gim_gimhae_26 = {
 	culture = silla
 	faith = "mu"
 	dynasty = korean_gim_gimhae
-	10043.3.4 = {
+	43.3.4 = {
 		birth = yes
 	}
 	10199.3.23 = {
@@ -13360,10 +13360,10 @@ korean_bak_silla_1 = {
 	culture = silla
 	faith = "mu"
 	dynasty = korean_bak_silla
-	10002.1.1 = {
+	2.1.1 = {
 		birth = yes
 	}
-	10057.1.1 = {
+	57.1.1 = {
 		death = yes
 	}
 }
@@ -13374,7 +13374,7 @@ korean_bak_silla_2 = { # King Il_seong
 	faith = "mu"
 	dynasty = korean_bak_silla
 	father = korean_bak_silla_1 # Yu_ri
-	10050.1.1 = {
+	50.1.1 = {
 		birth = yes
 	}
 	10154.1.1 = {
@@ -13388,7 +13388,7 @@ korean_bak_silla_3 = { # King Pa_sa
 	faith = "mu"
 	dynasty = korean_bak_silla
 	father = korean_bak_silla_1 # Yu_ri
-	10055.1.1 = {
+	55.1.1 = {
 		birth = yes
 	}
 	10112.1.1 = {
@@ -13402,7 +13402,7 @@ korean_bak_silla_4 = { # King Ji_ma
 	faith = "mu"
 	dynasty = korean_bak_silla
 	father = korean_bak_silla_3 # Pa_sa
-	10085.1.1 = {
+	85.1.1 = {
 		birth = yes
 	}
 	10134.1.1 = {

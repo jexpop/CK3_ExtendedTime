@@ -5,10 +5,10 @@
 	dna = animation_test_female
 	religion = "catholic"
 
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10830.8.26"
 	}
 }
@@ -19,10 +19,10 @@ animation_test_male = {
 	religion = "catholic"
 	culture = "aragonese"
 	
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10830.8.26"
 	}
 }
@@ -34,10 +34,10 @@ animation_test_female_child = {
 	religion = "catholic"
 	culture = "aragonese"
 	
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10810.8.26"
 	}
 }
@@ -48,10 +48,10 @@ animation_test_male_child = {
 	religion = "catholic"
 	culture = "aragonese"
 	
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10810.8.26"
 	}
 }
@@ -64,10 +64,10 @@ animation_test_dwarf_female = {
 	religion = "catholic"
 	culture = "aragonese"
 	
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10830.8.26"
 	}
 }
@@ -79,10 +79,10 @@ animation_test_dwarf_male = {
 	religion = "catholic"
 	culture = "aragonese"
 	
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10830.8.26"
 	}
 }
@@ -95,10 +95,10 @@ animation_test_fat_dwarf_female = {
 	religion = "catholic"
 	culture = "aragonese"
 	
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10830.8.26"
 	}
 }
@@ -110,10 +110,10 @@ animation_test_fat_dwarf_male = {
 	religion = "catholic"
 	culture = "aragonese"
 	
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10830.8.26"
 	}
 }
@@ -126,10 +126,10 @@ animation_test_female_pregnant = {
 	religion = "catholic"
 	culture = "aragonese"
 	
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10830.8.26"
 	}
 }
@@ -142,10 +142,10 @@ animation_test_muscular_female = {
 	religion = "catholic"
 	culture = "aragonese"
 	
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10830.8.26"
 	}
 }
@@ -157,10 +157,10 @@ animation_test_muscular_male = {
 	religion = "catholic"
 	culture = "aragonese"
 	
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10830.8.26"
 	}
 }
@@ -173,10 +173,10 @@ animation_test_hunchbacked_female = {
 	religion = "catholic"
 	culture = "aragonese"
 	
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10830.8.26"
 	}
 }
@@ -188,10 +188,10 @@ animation_test_hunchbacked_male = {
 	religion = "catholic"
 	culture = "aragonese"
 	
-	10001.6.2 = {
+	1.6.2 = {
 		birth = "10800.6.2"
 	}
-	10031.8.26 = {
+	31.8.26 = {
 		death = "10830.8.26"
 	}
 }

@@ -3,7 +3,7 @@ k_khotan = {
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 24 }
 	
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 2
 	}
 	11000.1.1 = {

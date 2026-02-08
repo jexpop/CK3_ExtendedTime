@@ -8131,11 +8131,11 @@ dynamic_mongol_1 = {
 	trait = open_terrain_expert
 	trait = education_martial_4
 	trait = shrewd
-	10001.1.1 = {
-		birth = "10001.1.1"
+	1.1.1 = {
+		birth = "1.1.1"
 	}
-	10001.1.2 = {
-		death = "10001.1.2"
+	1.1.2 = {
+		death = "1.1.2"
 	}
 }
 
@@ -8155,11 +8155,11 @@ dynamic_mongol_2 = {
 	martial = 3
 	intrigue = 4
 	stewardship = 2
-	10001.1.1 = {
-		birth = "10001.1.1"
+	1.1.1 = {
+		birth = "1.1.1"
 	}
-	10001.1.2 = {
-		death = "10001.1.2"
+	1.1.2 = {
+		death = "1.1.2"
 	}
 }
 

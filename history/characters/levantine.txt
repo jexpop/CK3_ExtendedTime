@@ -5998,14 +5998,14 @@
 	trait = zealous
 	trait = brave
 	trait = education_learning_4
-	10010.1.1 = {
-		birth = "10010.1.1"
+	10.1.1 = {
+		birth = "10.1.1"
 	}
-	10027.1.1 = {
+	27.1.1 = {
 		give_nickname = nick_the_apostle
 	}# AKA: Saint Thomas the Apostle
-	10072.12.21 = {
-		death = "10072.12.21"
+	72.12.21 = {
+		death = "72.12.21"
 	}
 }
 166237 = {
@@ -6019,14 +6019,14 @@
 	trait = humble
 	trait = zealous
 	trait = education_learning_4
-	10012.1.1 = {
-		birth = "10012.1.1"
+	12.1.1 = {
+		birth = "12.1.1"
 	}
-	10027.1.1 = {
+	27.1.1 = {
 		give_nickname = nick_the_apostle
 	}# AKA: Saint Bartholomew the Apostle
-	10070.1.1 = {
-		death = "10070.1.1"
+	70.1.1 = {
+		death = "70.1.1"
 	}
 }
 166238 = {
@@ -6041,14 +6041,14 @@
 	trait = zealous
 	trait = calm
 	trait = education_learning_4
-	10012.1.1 = {
-		birth = "10012.1.1"
+	12.1.1 = {
+		birth = "12.1.1"
 	}
-	10027.1.1 = {
+	27.1.1 = {
 		give_nickname = nick_the_apostle
 	}# AKA: Saint Thaddeus the Apostle
-	10077.1.1 = {
-		death = "10077.1.1"
+	77.1.1 = {
+		death = "77.1.1"
 	}
 }
 166239 = {
@@ -6056,11 +6056,11 @@
 	religion = "orthodox"
 	culture = "assyrian"
 	trait = education_learning_3
-	10017.1.1 = {
-		birth = "10017.1.1"
+	17.1.1 = {
+		birth = "17.1.1"
 	}
-	10087.1.1 = {
-		death = "10087.1.1"
+	87.1.1 = {
+		death = "87.1.1"
 		give_nickname = nick_the_holy
 	}
 }
@@ -6069,8 +6069,8 @@
 	religion = "orthodox"
 	culture = "assyrian"
 	trait = education_learning_3
-	10052.1.1 = {
-		birth = "10052.1.1"
+	52.1.1 = {
+		birth = "52.1.1"
 	}
 	10120.1.1 = {
 		death = "10120.1.1"
@@ -6083,8 +6083,8 @@
 	religion = "orthodox"
 	culture = "assyrian"
 	trait = education_learning_3
-	10066.1.1 = {
-		birth = "10066.1.1"
+	66.1.1 = {
+		birth = "66.1.1"
 	}
 	10137.1.1 = {
 		death = "10137.1.1"

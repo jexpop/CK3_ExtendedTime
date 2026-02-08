@@ -11092,8 +11092,8 @@
 	trait = diligent
 	trait = education_learning_1
 	
-	10089.1.1 = {
-		birth = "10089.1.1"
+	89.1.1 = {
+		birth = "89.1.1"
 	}
 	10148.1.1 = {
 		death = "10148.1.1"
@@ -11113,8 +11113,8 @@
 	trait = celibate
 	trait = education_learning_1
 	
-	10075.1.1 = {
-		birth = "10075.1.1"
+	75.1.1 = {
+		birth = "75.1.1"
 	}
 	10136.1.1 = {
 		death = "10136.1.1"
@@ -11316,8 +11316,8 @@
 	trait = calm
 	trait = zealous
 	trait = education_diplomacy_3
-	10090.1.1 = {
-		birth = "10090.1.1"
+	90.1.1 = {
+		birth = "90.1.1"
 	}
 	10137.1.1 = {
 		name = "Hyginus"
@@ -11340,8 +11340,8 @@
 	trait = calm
 	trait = zealous
 	trait = education_diplomacy_3
-	10090.1.1 = {
-		birth = "10090.1.1"
+	90.1.1 = {
+		birth = "90.1.1"
 	}
 	10125.1.1 = {
 		name = "Telesphorus"
@@ -11364,8 +11364,8 @@
 	trait = calm
 	trait = zealous
 	trait = education_diplomacy_3
-	10042.1.1 = {
-		birth = "10042.1.1"
+	42.1.1 = {
+		birth = "42.1.1"
 	}
 	10115.1.1 = {
 		name = "Sixtus"
@@ -11388,8 +11388,8 @@
 	trait = calm
 	trait = zealous
 	trait = education_diplomacy_3
-	10040.1.1 = {
-		birth = "10040.1.1"
+	40.1.1 = {
+		birth = "40.1.1"
 	}
 	10107.1.1 = {
 		name = "Alexander"
@@ -11412,10 +11412,10 @@
 	trait = calm
 	trait = zealous
 	trait = education_diplomacy_3
-	10005.1.1 = {
-		birth = "10005.1.1"
+	5.1.1 = {
+		birth = "5.1.1"
 	}
-	10099.1.1 = {
+	99.1.1 = {
 		name = "Evaristus"
 	# AKA: Yeshua
 	}
@@ -11436,15 +11436,15 @@
 	trait = calm
 	trait = zealous
 	trait = education_diplomacy_3
-	10020.1.1 = {
-		birth = "10020.1.1"
+	20.1.1 = {
+		birth = "20.1.1"
 	}
-	10092.1.1 = {
+	92.1.1 = {
 		name = "Clemens"
 	# AKA: Tertullian
 	}
-	10099.1.1 = {
-		death = "10099.1.1"
+	99.1.1 = {
+		death = "99.1.1"
 	}
 }
 
@@ -11460,15 +11460,15 @@
 	trait = calm
 	trait = zealous
 	trait = education_diplomacy_3
-	10020.1.1 = {
-		birth = "10020.1.1"
+	20.1.1 = {
+		birth = "20.1.1"
 	}
-	10079.1.1 = {
+	79.1.1 = {
 		name = "Anacletus"
 	# AKA: Cletus
 	}
-	10092.1.1 = {
-		death = "10092.1.1"
+	92.1.1 = {
+		death = "92.1.1"
 	}
 }
 
@@ -16064,8 +16064,8 @@
 	culture = "greek"
 	trait = celibate
 	trait = education_learning_2
-	10090.1.1 = {
-		birth = "10090.1.1"
+	90.1.1 = {
+		birth = "90.1.1"
 	}
 	10154.1.1 = {
 		death = "10154.1.1"
@@ -16079,8 +16079,8 @@
 	culture = "greek"
 	trait = celibate
 	trait = education_learning_2
-	10080.1.1 = {
-		birth = "10080.1.1"
+	80.1.1 = {
+		birth = "80.1.1"
 	}
 	10144.1.1 = {
 		death = "10144.1.1"
@@ -16094,8 +16094,8 @@
 	culture = "greek"
 	trait = celibate
 	trait = education_learning_2
-	10080.1.1 = {
-		birth = "10080.1.1"
+	80.1.1 = {
+		birth = "80.1.1"
 	}
 	10141.1.1 = {
 		death = "10141.1.1"
@@ -16109,8 +16109,8 @@
 	culture = "greek"
 	trait = celibate
 	trait = education_learning_2
-	10070.1.1 = {
-		birth = "10070.1.1"
+	70.1.1 = {
+		birth = "70.1.1"
 	}
 	10129.1.1 = {
 		death = "10129.1.1"
@@ -16124,8 +16124,8 @@
 	culture = "greek"
 	trait = celibate
 	trait = education_learning_2
-	10060.1.1 = {
-		birth = "10060.1.1"
+	60.1.1 = {
+		birth = "60.1.1"
 	}
 	10114.1.1 = {
 		death = "10114.1.1"
@@ -16139,8 +16139,8 @@
 	culture = "greek"
 	trait = celibate
 	trait = education_learning_2
-	10050.1.1 = {
-		birth = "10050.1.1"
+	50.1.1 = {
+		birth = "50.1.1"
 	}
 	10105.1.1 = {
 		death = "10105.1.1"
@@ -16154,11 +16154,11 @@
 	culture = "greek"
 	trait = celibate
 	trait = education_learning_2
-	10030.1.1 = {
-		birth = "10030.1.1"
+	30.1.1 = {
+		birth = "30.1.1"
 	}
-	10089.1.1 = {
-		death = "10089.1.1"
+	89.1.1 = {
+		death = "89.1.1"
 	}
 }
 
@@ -16169,11 +16169,11 @@
 	culture = "greek"
 	trait = celibate
 	trait = education_learning_2
-	10010.1.1 = {
-		birth = "10010.1.1"
+	10.1.1 = {
+		birth = "10.1.1"
 	}
-	10068.1.1 = {
-		death = "10068.1.1"
+	68.1.1 = {
+		death = "68.1.1"
 	}
 }
 
@@ -16184,11 +16184,11 @@
 	culture = "greek"
 	trait = celibate
 	trait = education_learning_3
-	10002.1.1 = {
-		birth = "10002.1.1"
+	2.1.1 = {
+		birth = "2.1.1"
 	}
-	10054.1.1 = {
-		death = "10054.1.1"
+	54.1.1 = {
+		death = "54.1.1"
 	}
 }
 
@@ -19286,15 +19286,15 @@
 	trait = calm
 	trait = zealous
 	trait = education_diplomacy_3
-	10010.1.1 = {
-		birth = "10010.1.1"
+	10.1.1 = {
+		birth = "10.1.1"
 	}
-	10064.10.13 = {
+	64.10.13 = {
 		name = "Linus"
 	# AKA: Linos
 	}
-	10079.1.1 = {
-		death = "10079.1.1"
+	79.1.1 = {
+		death = "79.1.1"
 	}
 }
 
@@ -19306,13 +19306,13 @@
 	trait = calm
 	trait = zealous
 	trait = education_learning_4
-	10003.1.1 = {
+	3.1.1 = {
 		birth = yes
 	}
-	10030.1.1 = {
+	30.1.1 = {
 		name = "Petrus"
 	}
-	10064.10.13 = {
+	64.10.13 = {
 		trait = saint
 		death = yes
 	}
@@ -21892,11 +21892,11 @@
 	trait = brave
 	trait = education_learning_4
 	
-	10008.1.1 = {
+	8.1.1 = {
 		birth = yes
 		give_nickname = nick_the_apostle
 	}
-	10065.1.1 = {
+	65.1.1 = {
 		death = yes
 	}
 }

@@ -1373,7 +1373,7 @@ c_sable = {
 
 
 d_normandy = {
-	10001.1.1 = {
+	1.1.1 = {
 		name = NEUSTRIA
 	}
 	

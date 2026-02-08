@@ -1,6 +1,0 @@
-﻿if = {
-    limit = {
-        has_variable = holocene_year_var # Esto cuenta como "uso" para el motor [6]
-    }
-    # No añadas nada aquí, el simple hecho de que aparezca en el limit basta.
-}

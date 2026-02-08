@@ -1,5 +1,5 @@
 k_finland = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 1
 	}
 	

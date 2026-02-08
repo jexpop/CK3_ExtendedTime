@@ -1,5 +1,5 @@
 k_sweden = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -308,7 +308,7 @@ c_upland = {
 
 
 c_sodermannaland = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -378,7 +378,7 @@ c_sodermannaland = {
 
 
 c_vastmanland = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -603,7 +603,7 @@ d_vastergotland = {
 
 
 c_vastergotland = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -679,7 +679,7 @@ c_vastergotland = {
 }
 
 c_skara = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -801,7 +801,7 @@ c_skara = {
 
 
 c_dal = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -880,7 +880,7 @@ c_dal = {
 
 
 c_varmland = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -947,7 +947,7 @@ c_varmland = {
 }
 
 c_nordmark = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -1073,7 +1073,7 @@ d_ostergotland = {
 
 
 c_ostergotland = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -1138,7 +1138,7 @@ c_ostergotland = {
 }
 
 c_kinda = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -1204,7 +1204,7 @@ c_kinda = {
 
 
 c_narke = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -1411,7 +1411,7 @@ d_smaland = {
 
 
 c_more = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -1484,7 +1484,7 @@ c_more = {
 }
 
 c_sevede = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -1717,7 +1717,7 @@ c_finnveden = {
 
 
 c_oland = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 2
 	}
 	

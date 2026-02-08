@@ -1,19 +1,19 @@
 ﻿k_papal_state = {
-	10030.1.1 = {
+	30.1.1 = {
 		holder = 145292
 		government = theocracy_government
 	} # Peter's first visit to Rome
 	
-	10064.10.13 = {
+	64.10.13 = {
 		holder = 145291
 	}
-	10079.1.1 = {
+	79.1.1 = {
 		holder = 7615
 	}
-	10092.1.1 = {
+	92.1.1 = {
 		holder = 7614
 	}
-	10099.1.1 = {
+	99.1.1 = {
 		holder = 7613
 	}
 	10107.1.1 = {
@@ -599,22 +599,22 @@
 }
 
 k_orthodox = {
-	10010.1.1 = {
+	10.1.1 = {
 		liege = "e_byzantium"
 	}
-	10038.1.1 = {
+	38.1.1 = {
 		holder = 70599
 	}
-	10038.12.1 = {
+	38.12.1 = {
 		holder = 145104
 	}
-	10054.1.1 = {
+	54.1.1 = {
 		holder = 145103
 	}
-	10068.1.1 = {
+	68.1.1 = {
 		holder = 145102
 	}
-	10089.1.1 = {
+	89.1.1 = {
 		holder = 145101
 	}
 	10105.1.1 = {
@@ -1082,7 +1082,7 @@ k_orthodox = {
 }
 
 d_iconoclast = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 	10766.11.16 = {
 		holder = 70560
@@ -1093,19 +1093,19 @@ d_iconoclast = {
 }
 
 d_patriarchate_in_the_east = {
-	10035.1.1={
+	35.1.1={
 		holder_ignore_head_of_faith_requirement=166236
 	}
-	10052.1.1={
+	52.1.1={
 		holder_ignore_head_of_faith_requirement=166237	#St. Thomas sails to India
 	}
-	10070.1.1={
+	70.1.1={
 		holder_ignore_head_of_faith_requirement=166238
 	}
-	10077.1.1={
+	77.1.1={
 		holder_ignore_head_of_faith_requirement=166239
 	}
-	10087.1.1={
+	87.1.1={
 		holder_ignore_head_of_faith_requirement=166240
 	}
 	10120.1.1={
@@ -1350,7 +1350,7 @@ d_patriarchate_in_the_east = {
 }
 
 d_coptic_papacy = {
-	10043.1.1 = {
+	43.1.1 = {
 		holder = 161518 #Markos I
 	}
 	10328.1.1 = {
@@ -1464,22 +1464,22 @@ d_coptic_papacy = {
 }
 
 d_apostolic_church = {
-	10001.1.1 = {
+	1.1.1 = {
 		#St. Thaddeus the Apostle (1–50); omitted for regnal numbering purposes.
 	}
-	10050.1.1 = {
+	50.1.1 = {
 		#St. Bartholomew the Apostle (50–68); omitted for regnal numbering purposes.
 	}
-	10068.1.1 = {
+	68.1.1 = {
 		#St. Zacharias (68–76); omitted for regnal numbering purposes.
 	}
-	10076.1.1 = {
+	76.1.1 = {
 		#St. Zementus (76–81); omitted for regnal numbering purposes.
 	}
-	10081.1.1 = {
+	81.1.1 = {
 		#St. Atrnerseh (81–97); omitted for regnal numbering purposes.
 	}
-	10097.1.1 = {
+	97.1.1 = {
 		#St. Mushe (97–128); omitted for regnal numbering purposes.
 	}
 	10128.1.1 = {
@@ -1996,7 +1996,7 @@ d_shiite = { # Ismaili
 }
 
 d_masmudi = {
-	10001.1.1 = {
+	1.1.1 = {
 		succession_laws = {
 			temporal_head_of_faith_succession_law
 		}
@@ -2043,7 +2043,7 @@ d_masmudi = {
 }
 
 d_malabarism = {
-	10001.1.1 = {
+	1.1.1 = {
 		succession_laws = {
 			temporal_head_of_faith_succession_law
 		}
@@ -2051,7 +2051,7 @@ d_malabarism = {
 }
 
 d_nizari = {
-	10001.1.1 = {
+	1.1.1 = {
 		succession_laws = {
 			temporal_head_of_faith_succession_law
 		}
@@ -2165,7 +2165,7 @@ d_muwalladi = {
 }
 
 e_golden_horde = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 	11227.12.2 = {
 		holder = 125503
@@ -2198,7 +2198,7 @@ e_golden_horde = {
 
 
 e_ilkhanate = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 	11227.12.2 = {
 		holder = 125520
@@ -2243,7 +2243,7 @@ e_ilkhanate = {
 
 
 e_chagatai = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 	11227.12.2 = {
 		holder = 93062
@@ -2332,7 +2332,7 @@ e_kirghiz_khanate = {
 
 
 e_mongol_empire = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 	11206.1.1 = {
 		holder = 125501
@@ -2448,7 +2448,7 @@ e_kara_khitai = {
 
 
 e_timurids = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 	11360.1.1 = {
 	}
@@ -2526,7 +2526,7 @@ k_switzerland = {
 
 
 d_knights_templar = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 	11179.1.1 = {
 		holder = 144613
@@ -2581,7 +2581,7 @@ d_knights_templar = {
 
 
 d_teutonic_order = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 	11192.1.1 = {
 	}
@@ -2649,7 +2649,7 @@ d_teutonic_order = {
 
 
 d_knights_hospitaler = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 	11187.5.1 = {
 		holder = 147007
@@ -2716,7 +2716,7 @@ d_knights_hospitaler = {
 
 
 d_hashshashin = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 	11090.1.1 = {
 		holder = 144225
@@ -2752,7 +2752,7 @@ d_hashshashin = {
 
 
 d_bektashi = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 	11230.1.1 = {
 	}
@@ -2760,86 +2760,86 @@ d_bektashi = {
 
 
 d_haruriyyah = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 d_jomsvikings = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 d_immortals = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 d_zealots = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 d_holy_sepulchre = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 d_saint_anthony = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 d_saint_addai = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 d_sky_lords = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 d_spirit_guardians = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 d_warriors_perun = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 d_chosen_perkunas = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 d_sons_kaleva = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 d_huitzilopochtli = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 d_zun_warriors = {
 	# Knights of the Sun
 	
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
@@ -3410,7 +3410,7 @@ d_socotra = {
 }
 
 e_germany = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 4
 	}
 	11000.1.1 = {
@@ -3423,7 +3423,7 @@ e_germany = {
 }
 
 e_hre = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 4
 	}
 	10800.12.25 = {
@@ -3531,7 +3531,7 @@ e_hre = {
 
 
 e_britannia = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -3545,43 +3545,43 @@ e_britannia = {
 }
 
 h_roman_empire = {
-	10003.1.27 = {
+	3.1.27 = {
 		holder = 145290
 	} # this way Jan 27 BC is displayed in his date, only backwards!
-	10024.8.19 = {
+	24.8.19 = {
 		holder = 145075
 	} # moved date 10 years later so Augustus is not portrayed as child
-	10037.3.16 = {
+	37.3.16 = {
 		holder = 145289
 	}
-	10041.1.24 = {
+	41.1.24 = {
 		holder = 145288
 	}
-	10054.10.13 = {
+	54.10.13 = {
 		holder = 145287
 	}
-	10068.6.9 = {
+	68.6.9 = {
 		holder = 145286
 	}
-	10069.1.15 = {
+	69.1.15 = {
 		holder = 145285
 	}
-	10069.4.16 = {
+	69.4.16 = {
 		holder = 145284
 	}
-	10069.12.20 = {
+	69.12.20 = {
 		holder = 145281
 	}
-	10079.6.23 = {
+	79.6.23 = {
 		holder = 145282
 	}
-	10081.9.13 = {
+	81.9.13 = {
 		holder = 145283
 	}
-	10096.9.18 = {
+	96.9.18 = {
 		holder = 145280
 	}
-	10098.1.27 = {
+	98.1.27 = {
 		holder = 145279
 	}
 	10117.8.9 = {
@@ -3698,7 +3698,7 @@ h_roman_empire = {
 }
 
 e_byzantium = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 6
 	}
 	
@@ -3744,43 +3744,43 @@ e_byzantium = {
 	11100.1.1 = {
 		change_development_level = 18
 	}
-	10003.1.27 = {
+	3.1.27 = {
 		holder = 145290
 	} # this way Jan 27 BC is displayed in his date, only backwards!
-	10024.8.19 = {
+	24.8.19 = {
 		holder = 145075
 	} # moved date 10 years later so Augustus is not portrayed as child
-	10037.3.16 = {
+	37.3.16 = {
 		holder = 145289
 	}
-	10041.1.24 = {
+	41.1.24 = {
 		holder = 145288
 	}
-	10054.10.13 = {
+	54.10.13 = {
 		holder = 145287
 	}
-	10068.6.9 = {
+	68.6.9 = {
 		holder = 145286
 	}
-	10069.1.15 = {
+	69.1.15 = {
 		holder = 145285
 	}
-	10069.4.16 = {
+	69.4.16 = {
 		holder = 145284
 	}
-	10069.12.20 = {
+	69.12.20 = {
 		holder = 145281
 	}
-	10079.6.23 = {
+	79.6.23 = {
 		holder = 145282
 	}
-	10081.9.13 = {
+	81.9.13 = {
 		holder = 145283
 	}
-	10096.9.18 = {
+	96.9.18 = {
 		holder = 145280
 	}
-	10098.1.27 = {
+	98.1.27 = {
 		holder = 145279
 	}
 	10117.8.9 = {
@@ -4225,7 +4225,7 @@ e_byzantium = {
 
 
 e_italy = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 6
 	}
 	
@@ -4240,7 +4240,7 @@ e_italy = {
 
 
 #e_scandinavia = {
-#	10020.1.1 = {
+#	20.1.1 = {
 #		change_development_level = 2
 #	}
 #	
@@ -4255,7 +4255,7 @@ e_italy = {
 
 
 e_wendish_empire = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -4270,7 +4270,7 @@ e_wendish_empire = {
 
 
 e_russia = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 0
 	}
 	
@@ -4557,7 +4557,7 @@ e_persia = {
 
 
 e_carpathia = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -4572,7 +4572,7 @@ e_carpathia = {
 
 
 e_france = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 4
 	}
 	
@@ -4594,7 +4594,7 @@ e_france = {
 
 
 e_spain = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 3
 	}
 	
@@ -4776,7 +4776,7 @@ k_visigoths = {
 
 
 e_maghreb = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -4791,7 +4791,7 @@ e_maghreb = {
 
 
 e_arabia = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -4924,7 +4924,7 @@ e_arabia = {
 
 
 e_abyssinia = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 2
 	}
 	
@@ -4939,7 +4939,7 @@ e_abyssinia = {
 
 
 e_mali = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 0
 	}
 	
@@ -4954,13 +4954,13 @@ e_mali = {
 
 
 h_india = {
-	10020.1.1 = {
+	20.1.1 = {
 	}
 }
 
 
 e_rajastan = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 3
 	}
 	
@@ -5053,7 +5053,7 @@ e_rajastan = {
 }
 
 e_deccan = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 4
 	}
 	
@@ -5071,7 +5071,7 @@ e_deccan = {
 
 
 e_tibet = {
-	10021.1.1 = {
+	21.1.1 = {
 		change_development_level = 1
 	}
 	
@@ -5333,7 +5333,7 @@ k_pisa = {
 }
 
 k_magyar = {
-	10020.1.1 = {
+	20.1.1 = {
 		government = nomad_government
 	}
 	10764.1.1 = {
@@ -5561,7 +5561,7 @@ k_rum = {
 }
 
 e_bengal = {
-	10020.1.1 = {
+	20.1.1 = {
 		change_development_level = 2
 	}
 	11000.1.1 = {

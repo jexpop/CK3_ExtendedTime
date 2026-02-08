@@ -189,7 +189,7 @@
 	culture = sogdian #represents the Pamir and Bactrian cultures that seems to have been present here in this period
 	religion = mahayana
 	holding = castle_holding
-	10001.1.1 = {
+	1.1.1 = {
 		special_building = sar_i_sang_mines_01 #famous lapis lazuli mine, in use since prehistorical times
 	}
 	11000.1.1 = {
